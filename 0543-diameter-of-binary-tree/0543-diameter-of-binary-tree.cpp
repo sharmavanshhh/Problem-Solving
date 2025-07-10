@@ -2,7 +2,7 @@ class Solution {
 public:
     int diameter = 0;
 
-    int depth(TreeNode* node) {
+    int depth(TreeNode* node) {  
         if (!node) return 0;
         int left = depth(node->left);   // how deep left side is
         int right = depth(node->right); // how deep right side is
