@@ -2,22 +2,25 @@ class Solution {
 public:
     int countDays(int days, vector<vector<int>>& meetings) {
         sort(meetings.begin(), meetings.end());
-        long long freeDays = 0;
-        int lastCovered = 0;
+        int days_worked = 0;
+        vector<vector<int>> result;
+        if (meetings.empty())
+            return 0;
+        result.push_back(meetings[0]);
 
-        for (const auto& m : meetings) {
-            int start = m[0], end = m[1];
-            if (start > lastCovered + 1) {
-                freeDays += start - lastCovered - 1;
+        for (int i = 1; i < meetings.size(); i++) {
+            vector<int>& last = result.back();
+
+            if (meetings[i][0] <= last[1]) {
+                last[1] = max(last[1], meetings[i][1]);
+            } else {
+                result.push_back(meetings[i]);
             }
-            lastCovered = max(lastCovered, end);
         }
 
-        // Add remaining free days after last meeting
-        if (lastCovered < days) {
-            freeDays += days - lastCovered;
+        for (int i = 0; i < result.size(); i++) {
+            days_worked += ((result[i][1] + 1) - result[i][0]);
         }
-
-        return (int)freeDays;
+        return days - days_worked;
     }
 };
