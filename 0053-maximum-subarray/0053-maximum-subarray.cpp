@@ -6,7 +6,7 @@ public:
         for(int i=1; i<nums.size(); i++){
             maxEnding = max(maxEnding + nums[i], nums[i]);
 
-            res = max(res, maxEnding);
+            res = max(maxEnding, res);
         }
         return res;
     }
