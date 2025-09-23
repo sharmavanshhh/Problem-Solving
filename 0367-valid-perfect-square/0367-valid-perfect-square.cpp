@@ -1,23 +1,21 @@
 class Solution {
 public:
-    bool isPerfectSquare(int x) {
+    bool isPerfectSquare(int num) {
         int low = 1;
-        int high = x;
-        int ans = 0;
+        int high = num;
+
         while(low <= high){
-            int sqrt = low + (high - low) / 2;
-            if((long)sqrt*sqrt == x){
+            int mid = low + (high - low) / 2;
+            if((long long) mid * mid == num){
                 return true;
             }
-            else if((long)sqrt*sqrt <= x){
-                // ans = sqrt;
-                low = sqrt + 1;
+            else if((long long) mid * mid > num){
+                high = mid - 1;
             }
             else{
-                high = sqrt - 1;
+                low = mid + 1;
             }
         }
-
         return false;
     }
 };
