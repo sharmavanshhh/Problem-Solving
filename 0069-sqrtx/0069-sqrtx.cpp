@@ -5,19 +5,19 @@ public:
         int high = x;
         int ans = 0;
         while(low <= high){
-            int sqrt = low + (high - low) / 2;
-            if((long)sqrt*sqrt == x){
-                return sqrt;
+            int mid = low + (high - low) / 2;
+
+            if((long long)mid * mid == x){
+                return mid;
             }
-            else if((long)sqrt*sqrt <= x){
-                ans = sqrt;
-                low = sqrt + 1;
+            else if((long long)mid * mid < x){
+                ans = mid;
+                low = mid + 1;
             }
             else{
-                high = sqrt - 1;
+                high = mid - 1;
             }
         }
-
         return ans;
     }
 };
