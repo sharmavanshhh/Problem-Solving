@@ -9,7 +9,8 @@ public:
         }
 
         // Turn on rightmost set bit
-        long long rightmost_bit = (xorr ^ xorr-1) & xorr;
+        // long long rightmost_bit = (xorr ^ xorr-1) & xorr;
+        long long rightmost_bit = xorr & (-xorr);
 
         // Divide in groups
         int g1 = 0;
