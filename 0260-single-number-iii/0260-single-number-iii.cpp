@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        int xorr = 0;
+        long long xorr = 0;
         
         // XOR All
         for(int i=0; i<nums.size(); i++){
@@ -9,7 +9,7 @@ public:
         }
 
         // Turn on rightmost set bit
-        long long int rightmost_bit = xorr & (-xorr);
+        long long rightmost_bit = xorr & (-xorr);
 
         // Divide in groups
         int g1 = 0;
