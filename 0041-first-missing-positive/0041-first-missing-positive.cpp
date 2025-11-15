@@ -4,7 +4,7 @@ public:
         long long n = nums.size();
         long long i = 0;
         while(i < n){
-            long long index = nums[i] - 1;
+            long long index = (long long)nums[i] - 1;
             if(nums[i] > 0 && nums[i] <= n && nums[i] != nums[index]){
                 swap(nums[i], nums[index]);
             }
