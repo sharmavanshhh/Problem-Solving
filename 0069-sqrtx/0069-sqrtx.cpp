@@ -4,18 +4,18 @@ public:
         int low = 1;
         int high = x;
         int ans = 0;
-        while(low <= high){
-            int mid = low + (high - low) / 2;
 
-            if((long long)mid * mid == x){
-                return mid;
+        while(low <= high){
+            int sqrt = low + (high - low) / 2;
+            if(sqrt * sqrt == x){
+                return sqrt;
             }
-            else if((long long)mid * mid < x){
-                ans = mid;
-                low = mid + 1;
+            else if(sqrt * sqrt < x){
+                ans = sqrt;
+                low = sqrt + 1;
             }
             else{
-                high = mid - 1;
+                high = sqrt - 1;
             }
         }
         return ans;
