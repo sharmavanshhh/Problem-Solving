@@ -3,17 +3,17 @@ public:
     bool isPerfectSquare(int num) {
         int low = 1;
         int high = num;
-
         while(low <= high){
-            int mid = low + (high - low) / 2;
-            if((long long) mid * mid == num){
+            long long sqrt = low + (high - low) / 2;
+
+            if(sqrt * sqrt == num){
                 return true;
             }
-            else if((long long) mid * mid > num){
-                high = mid - 1;
+            else if(sqrt * sqrt < num){
+                low = sqrt + 1;
             }
             else{
-                low = mid + 1;
+                high = sqrt - 1;
             }
         }
         return false;
