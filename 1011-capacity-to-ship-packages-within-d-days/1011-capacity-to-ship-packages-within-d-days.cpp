@@ -1,41 +1,36 @@
 class Solution {
 public:
-
-    bool shippable(vector<int>& weights, int capacity, int days){
-        int currentWeight = 0;
-        int day = 1;
-
-        for(int w : weights){
-            if(currentWeight + w > capacity){
-                day++;
-                currentWeight = 0;
-            }
-            currentWeight += w;
-        }
-        return day <= days;
-    }
-
     int shipWithinDays(vector<int>& weights, int days) {
-        int low = weights[0];
-        int high = 0;
-        for(int i=0; i<weights.size(); i++){
-            if(low < weights[i]){
-                low = weights[i];
-            }
-            high += weights[i];
-        }
+        int low = *max_element(weights.begin(), weights.end());
+        int high = accumulate(weights.begin(), weights.end(), 0);
 
-        int ans = high;
-        while(low <= high){
+        while (low <= high) {
             int mid = low + (high - low) / 2;
-            if(shippable(weights, mid, days)){
-                ans = mid;
+
+            int numberOfDays = isShippable(weights, mid);
+
+            if (numberOfDays <= days) {
                 high = mid - 1;
-            }
-            else{
+            } else {
                 low = mid + 1;
             }
         }
-        return ans;    
+
+        return low;
+    }
+
+    int isShippable(vector<int>& weights, int cap) {
+        int days = 1;
+        int load = 0;
+
+        for (int w : weights) {
+            if (load + w > cap) {
+                days++;
+                load = w;
+            } else {
+                load += w;
+            }
+        }
+        return days;
     }
 };
