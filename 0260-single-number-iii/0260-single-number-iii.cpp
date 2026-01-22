@@ -4,8 +4,8 @@ public:
         long long xorr = 0;
         
         // XOR All
-        for(int i=0; i<nums.size(); i++){
-            xorr = xorr ^ nums[i];
+        for(int a : nums){
+            xorr = xorr ^ a;
         }
 
         // Turn on rightmost set bit
