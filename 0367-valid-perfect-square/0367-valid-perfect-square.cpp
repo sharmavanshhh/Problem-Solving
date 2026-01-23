@@ -5,7 +5,6 @@ public:
         int high = num;
         while(low <= high){
             long long sqrt = low + (high - low) / 2;
-
             if(sqrt * sqrt == num){
                 return true;
             }
