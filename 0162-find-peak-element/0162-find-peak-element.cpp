@@ -1,17 +1,18 @@
 class Solution {
 public:
-    int findPeakElement(vector<int>& arr) {
+    int findPeakElement(vector<int>& nums) {
         int low = 0;
-        int high = arr.size() - 1;
+        int high = nums.size() - 1;
+
         while(low < high){
             int mid = low + (high - low) / 2;
-            if(arr[mid] > arr[mid+1]){
+            if(nums[mid] > nums[mid+1]){
                 high = mid;
             }
             else{
                 low = mid + 1;
             }
         }
-        return low;    
+        return low;
     }
 };
