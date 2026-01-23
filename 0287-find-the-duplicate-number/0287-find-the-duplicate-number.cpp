@@ -3,7 +3,6 @@ public:
     int findDuplicate(vector<int>& nums) {
         int i = 0;
         int n = nums.size();
-        // vector<int>ans;
         while(i < n){
             int index = nums[i] - 1;
             if(nums[i] != nums[index]){
@@ -13,14 +12,11 @@ public:
                 i++;
             }
         }
-
-        for(int i=0; i<n; i++){
-            if(nums[i] != i+1){
-                // ans.push_back(nums[i]);
-                return nums[i];
+        for(int k=0; k<n; k++){
+            if(nums[k] != k+1){
+                return nums[k];
             }
         }
-
         return n;
     }
 };
