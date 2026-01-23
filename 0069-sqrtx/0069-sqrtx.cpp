@@ -4,9 +4,8 @@ public:
         int low = 1;
         int high = x;
         int ans = 0;
-
         while(low <= high){
-            int sqrt = low + (high - low) / 2;
+            long long sqrt = low + (high - low) / 2;
             if(sqrt * sqrt == x){
                 return sqrt;
             }
