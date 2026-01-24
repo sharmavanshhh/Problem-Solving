@@ -16,7 +16,9 @@ public:
 
         while (low < high) {
             int mid = low + (high - low) / 2;
-            if (mountainArr.get(mid) < mountainArr.get(mid + 1))
+            int val = mountainArr.get(mid);
+            int next = mountainArr.get(mid + 1);
+            if (val < next)
                 low = mid + 1;
             else
                 high = mid;
@@ -34,11 +36,12 @@ public:
     int binarySearch(MountainArray& mountainArr, int target, int low, int high, bool asc){
         while(low <= high){
             int mid = low + (high - low) / 2;
+            int val = mountainArr.get(mid);
 
-            if(mountainArr.get(mid) == target){
+            if(val == target){
                 return mid;
             }
-            else if(mountainArr.get(mid) < target){
+            else if(val < target){
                 if(asc){
                     low = mid + 1;
                 }
