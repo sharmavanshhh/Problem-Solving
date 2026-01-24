@@ -10,50 +10,51 @@
 
 class Solution {
 public:
-    int findInMountainArray(int target, MountainArray &arr) {
-        int n = arr.length();
-
+    int findInMountainArray(int target, MountainArray& mountainArr) {
+        int n = mountainArr.length();
         int low = 0, high = n - 1;
-        while(low < high){
+
+        while (low < high) {
             int mid = low + (high - low) / 2;
-            if(arr.get(mid) < arr.get(mid+1)){
+            if (mountainArr.get(mid) < mountainArr.get(mid + 1))
                 low = mid + 1;
-            }
-            else{
+            else
                 high = mid;
-            }
         }
         int peak = low;
 
-        low = 0;
-        high = peak;
-        while(low <= high){
-            int mid = low + (high - low) / 2;
-            if(arr.get(mid) == target){
-                return mid;
-            }
-            else if(target > arr.get(mid)){
-                low = mid + 1;
-            }
-            else{
-                high = mid - 1;
-            }
+        int leftSearch = binarySearch(mountainArr, target, 0, peak, true);
+        if(leftSearch != -1){
+            return leftSearch;
         }
+        
+        return binarySearch(mountainArr, target, peak + 1, n - 1, false);
+    }
 
-        low = peak + 1;
-        high = n - 1;
+    int binarySearch(MountainArray& mountainArr, int target, int low, int high, bool asc){
         while(low <= high){
             int mid = low + (high - low) / 2;
-            if(arr.get(mid) == target){
+
+            if(mountainArr.get(mid) == target){
                 return mid;
             }
-            else if(target < arr.get(mid)){
-                low = mid + 1;
+            else if(mountainArr.get(mid) < target){
+                if(asc){
+                    low = mid + 1;
+                }
+                else{
+                    high = mid - 1;
+                }
             }
             else{
-                high = mid - 1;
+                if(asc){
+                    high = mid - 1;
+                }
+                else{
+                    low = mid + 1;
+                }
             }
         }
-    return -1;
+        return -1;
     }
 };
