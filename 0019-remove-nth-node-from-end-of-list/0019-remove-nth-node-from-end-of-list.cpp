@@ -23,13 +23,12 @@ public:
         }
 
         while(fast != nullptr && fast->next != nullptr){
-            slow = slow->next;  
+            slow = slow->next;
             fast = fast->next;
         }
 
         ListNode* temp = slow->next;
         slow->next = slow->next->next;
-
         delete temp;
         return head;
     }
