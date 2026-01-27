@@ -11,33 +11,34 @@
 class Solution {
 public:
     vector<ListNode*> splitListToParts(ListNode* head, int k) {
-        vector<ListNode*> result(k, nullptr);
+        vector<ListNode*> ans(k, nullptr);
 
         ListNode* tail = head;
         int length = 0;
-        while(tail!=nullptr){
+        while(tail){
             length++;
             tail = tail->next;
         }
 
         int size = length / k;
-        int extra = length % k;
-        
+        int rem = length % k;
+
         ListNode* current = head;
-        for(int i=0; i<k && current != nullptr; i++){
-            result[i] = current;
-
-            int part = size + (i < extra ? 1 : 0);
-
-            for(int j = 1; j < part; j++){
+        for(int i=0; i<k; i++){
+            if(!current){
+                ans[i] = nullptr;
+                continue;
+            }
+            ans[i] = current;
+            int partSize = size + (i < rem ? 1 : 0);
+            for(int j=1; j<partSize; j++){
                 current = current->next;
             }
-
-            ListNode* nextPart = current->next;
+            ListNode* next = current->next;
             current->next = nullptr;
-            current = nextPart;
+            current = next;
         }
 
-        return result;
+        return ans;
     }
 };
