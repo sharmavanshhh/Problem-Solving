@@ -10,38 +10,33 @@
  */
 class Solution {
 public:
-     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* dummy = new ListNode(0);
-        ListNode* tail = dummy;
-        
-        while(list1 && list2){
-            if(list1->val < list2->val){
-                tail->next = list1;
-                list1 = list1->next;
-            }
-            else{
-                tail->next = list2;
-                list2 = list2->next;
-            }
-            tail = tail->next;
-        }
-
-        tail->next = list1 ? list1 : list2;
-
-        return dummy->next;
-    }
-
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        
         if(lists.empty()){
             return nullptr;
         }
-
         ListNode* ans = lists[0];
         for(int i=1; i<lists.size(); i++){
-            ans = mergeTwoLists(ans, lists[i]);
+            ans = mergeLists(ans, lists[i]);
         }
-
         return ans;
+    }
+
+    ListNode* mergeLists(ListNode* start, ListNode* list){
+        ListNode* dummy = new ListNode(0);
+        ListNode* tail = dummy;
+
+        while(start && list){
+            if(start->  val < list->val){
+                tail->next = start;
+                start = start->next;
+            }
+            else{
+                tail->next = list;
+                list = list->next;
+            }
+            tail = tail->next;
+        }
+        tail->next = start ? start : list;
+        return dummy->next;
     }
 };
