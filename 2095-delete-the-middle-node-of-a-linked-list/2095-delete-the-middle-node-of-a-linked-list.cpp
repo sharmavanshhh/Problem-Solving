@@ -19,7 +19,7 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
         ListNode* prev = nullptr;
-        
+
         while(fast && fast->next){
             prev = slow;
             slow = slow->next;
@@ -28,7 +28,6 @@ public:
 
         prev->next = slow->next;
         delete slow;
-
         return head;
     }
 };
