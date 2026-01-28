@@ -12,7 +12,6 @@ class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
         ListNode* dummy = new ListNode(0, head);
-
         ListNode* current = dummy;
 
         while(current->next && current->next->next){
@@ -22,7 +21,6 @@ public:
             first->next = second->next;
             second->next = first;
             current->next = second;
-
             current = first;
         }
 
