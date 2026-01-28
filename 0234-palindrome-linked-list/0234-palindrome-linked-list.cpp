@@ -18,31 +18,26 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
 
-
-        while(fast->next && fast->next->next){
+        while(fast && fast->next){
             slow = slow->next;
             fast = fast->next->next;
         }
 
+        ListNode* current = slow;
         ListNode* prev = nullptr;
-        ListNode* curr = slow->next;
-
-        while(curr){
-            ListNode* nextTemp = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nextTemp;
+        while(current){
+            ListNode* next = current->next;
+            current->next = prev;
+            prev = current;
+            current = next;
         }
 
-
-        ListNode* first = head;
-        ListNode* second = prev;
-        while(second){
-            if(first->val != second->val){
+        while(head && prev){
+            if(head->val != prev->val){
                 return false;
             }
-                first = first->next;
-                second = second->next;
+            head = head->next;
+            prev = prev->next;
         }
 
         return true;
