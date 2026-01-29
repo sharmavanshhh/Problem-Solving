@@ -14,11 +14,22 @@ public:
         if(lists.empty()){
             return nullptr;
         }
-        ListNode* ans = lists[0];
-        for(int i=1; i<lists.size(); i++){
-            ans = mergeLists(ans, lists[i]);
+        int n = lists.size();
+        
+        while(n > 1){
+            int i = 0;
+            int j = n - 1;
+            
+            while(i < j){
+                lists[i] = mergeLists(lists[i], lists[j]);
+                i++;
+                j--;
+            }
+            
+            n = (n + 1) / 2;
         }
-        return ans;
+        
+        return lists[0];
     }
 
     ListNode* mergeLists(ListNode* start, ListNode* list){
