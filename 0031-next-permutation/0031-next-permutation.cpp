@@ -12,7 +12,7 @@ public:
         if(i >= 0){
             int j = n - 1;
             while(j >= 0 && nums[j] <= nums[i]){
-                i--;
+                j--;
             }
             swap(nums[i], nums[j]);
         }
