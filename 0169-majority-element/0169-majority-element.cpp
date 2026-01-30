@@ -7,6 +7,7 @@ public:
         for(int i=0; i<nums.size(); i++){
             if(count == 0){
                 lead = nums[i];
+                count = 1;
             }
             else if(nums[i] == lead){
                 count++;
@@ -15,7 +16,6 @@ public:
                 count--;
             }
         }
-
         return lead;
     }
 };
