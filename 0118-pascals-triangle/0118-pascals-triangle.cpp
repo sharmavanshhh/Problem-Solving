@@ -18,15 +18,17 @@ public:
         // return pascal;
 
         /*Mathematical Approach*/
-        vector<vector<int>> pascal;
-        for (int i = 0; i < numRows; i++) {
-            vector<int> rows;
-            long long ele = 1;
-            for (int j = 0; j <= i; j++) {
-                rows.push_back(ele);
-                ele = ele * (i - j) / (j + 1);
+         vector<vector<int>> pascal;
+
+        for(int i = 0; i < numRows; i++){
+            vector<int> row;
+            long long ele = 1;   // iC0 = 1
+            row.push_back(ele);
+            for(int k = 1; k <= i; k++){
+                ele = ele * (i - k + 1) / k; 
+                row.push_back(ele);
             }
-            pascal.push_back(rows);
+            pascal.push_back(row);
         }
         return pascal;
     }
