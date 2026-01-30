@@ -10,7 +10,7 @@ public:
         sort(scoreWithIndex.rbegin(), scoreWithIndex.rend());  // Sort in descending order
         
         vector<string> result(n);
-        for(int i = 0; i < n; ++i) {
+        for(int i = 0; i < n; i++) {
             int idx = scoreWithIndex[i].second;
             if(i == 0) result[idx] = "Gold Medal";
             else if(i == 1) result[idx] = "Silver Medal";
