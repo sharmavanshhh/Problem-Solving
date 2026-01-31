@@ -1,52 +1,43 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        
         int m = nums1.size();
         int n = nums2.size();
 
-        int im = 0;
-        int in = 0;
-        int ir = 0;
-                
-        vector<int> result(m+n);
+        if(m > n){
+            return findMedianSortedArrays(nums2, nums1);
+        }
 
-        while(im < m && in < n){
-            if(nums1[im] <= nums2[in]){
-                result[ir] = nums1[im];
-                            im++;
+        int low = 0;
+        int high = m;
+        int part = (n + m + 1) / 2;
+        while(low <= high){
+            int mid1 = low + (high - low) / 2;
+            int mid2 = part - mid1;
+
+            int l1 = INT_MIN, l2 = INT_MIN;
+            int r1 = INT_MAX, r2 = INT_MAX;
+
+            if(mid1 < m) r1 = nums1[mid1];
+            if(mid2 < n) r2 = nums2[mid2];
+            if(mid1 - 1 >= 0) l1 = nums1[mid1 - 1];
+            if(mid2 - 1 >= 0) l2 = nums2[mid2 - 1];
+
+            if(l1 <= r2 && l2 <= r1){
+                if((m+n) % 2 != 0){
+                    return max(l1, l2);
+                }
+                else{
+                    return (double)(max(l1,l2) + min(r1,r2)) / 2.0;
+                }
+            }
+            else if(l1 > r2){
+                high = mid1 - 1;
             }
             else{
-                result[ir] = nums2[in];
-                            in++;
-            }
-
-
-            ir++;
+                low = mid1 + 1;
+            }   
         }
-
-        while(im < m){
-            result[ir] = nums1[im];
-            im++;
-            ir++;
-        }
-
-        while(in < n){
-            result[ir] = nums2[in];
-            in++;
-            ir++;
-        }
-
-        int r = result.size();
-        double median;
-        if(r % 2 == 0){
-            median = (result[r/2] + result[(r/2) -1])/2.0;
-        }
-        else{
-            median = result[r/2];
-        }
-
-        return median;
-
+        return 0;
     }
 };
