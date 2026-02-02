@@ -28,14 +28,14 @@ public:
 
                 long long rightIndexSum =
                     totalIndexSum - leftIndexSum - currIndex;
-
+ 
                 long long leftPart = (long long)currIndex * j - leftIndexSum;
 
                 long long rightPart =
                     rightIndexSum -
                     (long long)currIndex * (indices.size() - j - 1);
 
-                ans[currIndex] += leftPart + rightPart;
+                ans[currIndex] = leftPart + rightPart;
 
                 leftIndexSum += currIndex;
             }
