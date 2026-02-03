@@ -9,7 +9,6 @@ public:
 
         for(int x : nums){
             sum += x;
-
             int need = sum - k;
 
             if(mp.count(need)){
@@ -18,7 +17,6 @@ public:
 
             mp[sum]++;
         }
-
         return count;
     }
 };
