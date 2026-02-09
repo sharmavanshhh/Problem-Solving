@@ -7,13 +7,15 @@ public:
 
         int n = intervals.size();
 
+        ans.push_back(intervals[0]);
+
         for(int i = 1; i < n; i++){
-            if(intervals[i][0] <= intervals[i-1][1]){
-                ans.push_back({intervals[i-1][0], intervals[i][1]});
-            }
-            else{
-                ans.push_back(intervals[i]);
-            }
+           if(intervals[i][0] <= ans.back()[1]){
+            ans.back()[1] = max(ans.back()[1], intervals[i][1]);
+           }
+           else{
+            ans.push_back(intervals[i]);
+           }
         }
         return ans;
     }
