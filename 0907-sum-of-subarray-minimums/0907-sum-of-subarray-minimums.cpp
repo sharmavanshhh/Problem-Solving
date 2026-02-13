@@ -39,7 +39,8 @@ public:
         long long sum = 0;
         int mod = 1e9+7;
         for(int i = 0; i < n; i++){
-            sum += (long long)(arr[i] * left[i] * right[i]) % mod;
+            long long contribution = 1LL * arr[i] * left[i] * right[i];
+            sum = (sum + contribution) % mod;
         }
         
         return sum;
