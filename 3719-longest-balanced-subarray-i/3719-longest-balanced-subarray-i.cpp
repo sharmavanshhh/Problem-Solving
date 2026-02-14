@@ -9,7 +9,7 @@ public:
             unordered_set<int> oddSet;
 
             for (int j = i; j < n; j++) {
-                if (nums[j] % 2 == 0)
+                if (nums[j] & 1)
                     evenSet.insert(nums[j]);
                 else
                     oddSet.insert(nums[j]);
