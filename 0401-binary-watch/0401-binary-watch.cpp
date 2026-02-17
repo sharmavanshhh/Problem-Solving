@@ -31,6 +31,7 @@ public:
 
         backtracking(turnedOn, 0, 0, 0, ans);
 
+        sort(ans.begin(), ans.end());
         return ans;
     }
 };
