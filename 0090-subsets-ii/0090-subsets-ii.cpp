@@ -1,25 +1,24 @@
 class Solution {
 public:
-    void recursion(vector<int>& nums, vector<vector<int>>& ans, int start, vector<int> temp){
-        ans.push_back(temp);
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        vector<vector<int>> ans;
+        vector<int> curr;
 
-        for(int i = start; i < nums.size(); i++){
-            // Skip duplicates
-            if(i > start && nums[i] == nums[i - 1]) continue;
+        sort(nums.begin(), nums.end());
 
-            temp.push_back(nums[i]);
-            recursion(nums, ans, i + 1, temp);
-            temp.pop_back();
-        }
+        backtrack(nums, ans, curr, 0);
+
+        return ans;
     }
 
-    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        vector<vector<int>> result;
-        vector<int> temp;
+    void backtrack(vector<int>& nums, vector<vector<int>>& ans, vector<int>& curr, int start){
+        ans.push_back(curr);
 
-        sort(nums.begin(), nums.end()); // sort to bring duplicates together
-        recursion(nums, result, 0, temp);
-
-        return result;
+        for(int i = start; i < nums.size(); i++){
+            if(i > start && nums[i] == nums[i - 1]) continue;
+            curr.push_back(nums[i]);
+            backtrack(nums, ans, curr, i+1);
+            curr.pop_back();
+        }
     }
 };
