@@ -1,31 +1,22 @@
 class Solution {
 public:
+    vector<string> letterCombinations(string digits) {
+        vector<string> ans;
+        backtracking(digits, ans, "", 0);
+        return ans;
+    }
 
-    void backtrack(string digits, int index, string current, vector<string>& ans){
-        vector<string> map = { "", "", "abc", "def", "ghi",
-                                "jkl", "mno", "pqrs", "tuv", "wxyz"};
+    void backtracking(string digits, vector<string>& ans, string curr, int index){
+        vector<string> map = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
 
         if(index == digits.size()){
-            ans.push_back(current);
+            ans.push_back(curr);
             return;
         }
 
         string letters = map[digits[index] - '0'];
-
         for(char ch : letters){
-            backtrack(digits, index+1, current+ch, ans);
+            backtracking(digits, ans, curr + ch, index + 1);
         }
-    }
-
-    vector<string> letterCombinations(string digits) {
-        vector<string> result;
-
-        if(digits == ""){
-            return result;
-        }
-
-        backtrack(digits, 0, "", result);
-
-        return result;
     }
 };
