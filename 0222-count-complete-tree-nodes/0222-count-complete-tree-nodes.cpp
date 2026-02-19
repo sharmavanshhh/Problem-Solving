@@ -11,17 +11,30 @@
  */
 class Solution {
 public:
-    void postOrder(TreeNode* root, vector<int>& tree){
-         if(!root){
+    // void postOrder(TreeNode* root, vector<int>& tree){
+    //      if(!root){
+    //         return;
+    //     }
+    //     postOrder(root->left, tree);
+    //     postOrder(root->right, tree);
+    //     tree.push_back(root->val);
+    // }
+    
+    void treeSize(TreeNode* root, int& nodes){
+        if(!root){
             return;
         }
-        postOrder(root->left, tree);
-        postOrder(root->right, tree);
-        tree.push_back(root->val);
+        treeSize(root->left, nodes);
+        treeSize(root->right, nodes);
+        nodes++;
     }
     int countNodes(TreeNode* root) {
-        vector<int> tree;
-        postOrder(root, tree);
-        return tree.size();
+        // vector<int> tree;
+        // postOrder(root, tree);
+        // return tree.size();
+        
+        int nodes = 0;
+        treeSize(root, nodes);
+        return nodes;
     }
 };
