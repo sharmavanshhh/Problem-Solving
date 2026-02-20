@@ -1,38 +1,32 @@
 class Solution {
 public:
+    vector<vector<string>> partition(string s) {
+        vector<vector<string>> ans;
+        vector<string> temp;
+        backtrack(s, ans, temp, 0);
+        return ans;
+    }
 
     bool isPalindrome(string s, int low, int high){
         while(low < high){
-            if(s[low] != s[high]){
-                return false;
-            }
+            if(s[low] != s[high]) return false;
             low++;
             high--;
         }
         return true;
     }
 
-    void backtracking(string& s, vector<string>& temp, vector<vector<string>>& result, int start){
-        if(start == s.length()){
-            result.push_back(temp);
-            return;
+    void backtrack(string s, vector<vector<string>>& ans, vector<string>& temp, int index){
+        if(index == s.size()){
+            ans.push_back(temp);
         }
 
-        for(int i=start; i<s.length(); i++){
-            if(isPalindrome(s, start, i)){
-                temp.push_back(s.substr(start, i-start+1));
-                backtracking(s, temp, result, i+1);
+        for(int i = index; i < s.size(); i++){
+            if(isPalindrome(s, index, i)){
+                temp.push_back(s.substr(index, i - index + 1));
+                backtrack(s, ans, temp, i + 1);
                 temp.pop_back();
             }
         }
     }
-
-    vector<vector<string>> partition(string s) {
-        vector<vector<string>> result;
-        vector<string> temp;
-
-        backtracking(s, temp, result, 0);
-
-        return result;
-    }   
 };
