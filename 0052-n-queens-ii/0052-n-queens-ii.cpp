@@ -23,10 +23,6 @@ public:
     }
 
     bool canPlace(int row, int col, vector<string>& temp, int n){
-        for(int j = 0; j < n; j++){
-            if(temp[row][j] == 'Q') return false;
-        }
-
         for(int i = 0; i < n; i++){
             if(temp[i][col] == 'Q') return false; 
         }
