@@ -7,7 +7,7 @@ public:
             if(ch == '(' || ch == '{' || ch == '['){
                 st.push(ch);
             }
-            else if(ch == ')' || ch == '}' || ch == ']'){
+            else{
                 if(st.empty()) return false;
                 char top = st.top();
                 if((ch == ')' && top != '(') ||
