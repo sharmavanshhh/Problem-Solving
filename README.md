@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
