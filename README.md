@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0342-power-of-four/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0338-counting-bits/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
