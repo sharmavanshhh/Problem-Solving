@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0136-single-number/) | Easy |
 | [0260-single-number-iii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Greedy
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -30,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0342-power-of-four/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -49,9 +52,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
