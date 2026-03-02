@@ -3,8 +3,8 @@ public:
     int countBits(int num){
         int bits = 0;
         while(num){
-            bits += (num & 1);
-            num >>= 1;
+            num = num & num - 1;
+            bits++;
         }
         return bits;
     }
