@@ -2,17 +2,20 @@ class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
         long long xorr = 0;
-        
-        // XOR All
+
+        // XOR all numbers
         for(int a : nums){
             xorr = xorr ^ a;
         }
 
-        // Turn on rightmost set bit
-        // long long rightmost_bit = (xorr ^ xorr-1) & xorr;
+        // Now, xorr = unique1 ^ unique2
+        // Turn on the righmost setbit of xorr
         long long rightmost_bit = xorr & (-xorr);
 
-        // Divide in groups
+        // Now this rightmost setbit will differ 0/1 in the unique numbers
+        // Divide the numbers in two groups based on this bit as 0/1
+        // Each group will contain duplicates and one unique
+        // Doing xorr within each group will eliminate the duplicates
         int g1 = 0;
         int g2 = 0;
         for(int x : nums){
@@ -23,7 +26,6 @@ public:
                 g2 = g2 ^ x;
             }
         }
-
-        return {g1, g2};
+        return {g1,g2};
     }
 };
