@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0136-single-number/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Greedy
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0338-counting-bits/) | Easy |
