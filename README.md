@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0136-single-number/) | Easy |
 | [0260-single-number-iii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0645-set-mismatch](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0704-binary-search/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0278-first-bad-version/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0704-binary-search/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
