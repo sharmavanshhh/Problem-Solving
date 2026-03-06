@@ -15,7 +15,7 @@ public:
         return low;
     }
 
-    int maxOps(vector<int>& nums, int p int maxOps){
+    int maxOps(vector<int>& nums, int p, int maxOps){
         int ops = 0;
         for(int x : nums){
             ops += (x - 1) / p;
