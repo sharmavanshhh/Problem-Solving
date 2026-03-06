@@ -4,16 +4,13 @@ public:
         int low = 1;
         int high = num;
         while(low <= high){
-            long long sqrt = low + (high - low) / 2;
-            if(sqrt * sqrt == num){
-                return true;
-            }
-            else if(sqrt * sqrt < num){
+            int sqrt = low + (high - low) / 2;
+            long long temp = (long long)sqrt * (long long)sqrt;
+            if(temp == num) return true;
+            else if(temp < num){
                 low = sqrt + 1;
             }
-            else{
-                high = sqrt - 1;
-            }
+            else high = sqrt - 1;
         }
         return false;
     }
