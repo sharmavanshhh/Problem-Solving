@@ -6,7 +6,7 @@ public:
 
         while(low < high){
             int mid = low + (high - low) / 2;
-            int ops = maxOps(nums, mid);
+            int ops = maxOps(nums, mid, maxOperations);
 
             if(ops > maxOperations) low = mid + 1;
             else high = mid;
@@ -15,10 +15,11 @@ public:
         return low;
     }
 
-    int maxOps(vector<int>& nums, int p){
+    int maxOps(vector<int>& nums, int p int maxOps){
         int ops = 0;
         for(int x : nums){
             ops += (x - 1) / p;
+            if(ops > maxOps) break;
         }
         return ops;
     }
