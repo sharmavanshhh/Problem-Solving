@@ -6,26 +6,20 @@ public:
 
         while(low < high){
             int mid = low + (high - low) / 2;
+            int ops = maxOps(nums, mid);
 
-            int ops = possibleOps(nums, mid);
-
-            if(ops > maxOperations){
-                low = mid + 1;
-            }
-            else{
-                high = mid;
-            }
+            if(ops > maxOperations) low = mid + 1;
+            else high = mid;
         }
+
         return low;
     }
 
-    int possibleOps(vector<int>& nums, int balls){
-        long long ops = 0;
-
+    int maxOps(vector<int>& nums, int p){
+        int ops = 0;
         for(int x : nums){
-            ops += (x - 1) / balls;
+            ops += (x - 1) / p;
         }
-
-        return (int)ops;
+        return ops;
     }
 };
