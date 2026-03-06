@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0645-set-mismatch](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0278-first-bad-version/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
