@@ -1,22 +1,14 @@
 class Solution {
 public:
     bool validMountainArray(vector<int>& arr) {
-        if(arr.size()<3) return false;
+        if(arr.size() < 3) return false;
 
-        int i = 0;
+        int l = 0;
+        int r = arr.size() - 1;
 
-        while(i + 1 < arr.size() && arr[i] < arr[i + 1]){
-            i++;
-        }
+        while(l + 1 < arr.size() && arr[l] < arr[l + 1]) l++;
+        while(r - 1 >= 0 && arr[r] < arr[r - 1]) r--;
 
-        if(i == 0 || i == arr.size()-1){
-            return false;
-        }
-
-        while(i + 1 < arr.size() && arr[i] > arr[i+1]){
-            i++;
-        }
-
-        return (i == arr.size()-1);
+        return l > 0 && r < arr.size() - 1 && l == r;
     }
 };
