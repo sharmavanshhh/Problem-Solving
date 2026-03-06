@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0278-first-bad-version/) | Easy |
+| [0367-valid-perfect-square](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
