@@ -6,6 +6,7 @@ public:
 
         while(low <= high){
             int mid = low + (high - low) / 2;
+
             long long hours = isEatable(piles, mid);
 
             if(hours <= h){
@@ -15,6 +16,7 @@ public:
                 low = mid + 1;
             }
         }
+
         return low;
     }
 
