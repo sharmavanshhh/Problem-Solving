@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0941-valid-mountain-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0941-valid-mountain-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Sliding Window
