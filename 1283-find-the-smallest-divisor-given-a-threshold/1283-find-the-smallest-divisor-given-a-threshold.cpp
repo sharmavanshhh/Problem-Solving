@@ -4,25 +4,22 @@ public:
         int low = 1;
         int high = *max_element(nums.begin(), nums.end());
 
-        while(low < high){
+        while(low <= high){
             int mid = low + (high - low) / 2;
 
-            int sum = divide(nums, mid);
-            
-            if(sum > threshold){
-                low = mid + 1;
-            }
-            else{
-                high = mid;
-            }
+            int divisor = canDivide(nums, mid);
+
+            if(divisor <= threshold) high = mid - 1;
+            else low = mid + 1;
         }
+
         return low;
     }
 
-    int divide(vector<int>& nums, int divisor){
+    int canDivide(vector<int>& nums, int div){
         int sum = 0;
         for(int n : nums){
-            sum += (n + divisor - 1) / divisor;
+            sum += (n + div - 1) / div;
         }
         return sum;
     }
