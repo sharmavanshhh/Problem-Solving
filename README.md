@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-find-in-mountain-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2401-longest-nice-subarray/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
