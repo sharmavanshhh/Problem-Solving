@@ -38,11 +38,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2401-longest-nice-subarray/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -206,4 +210,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 <!---LeetCode Topics End-->
