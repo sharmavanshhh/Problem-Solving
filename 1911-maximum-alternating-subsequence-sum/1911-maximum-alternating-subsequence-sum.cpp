@@ -3,7 +3,7 @@ public:
     long long maxAlternatingSum(vector<int>& nums) {
         int n = nums.size();
 
-        vector<vector<long long>> dp(n + 1, vector<long long>(2, 0)); // even : 0, odd : 1
+        vector<vector<long long>> dp(n, vector<long long>(2, 0)); // even : 0, odd : 1
 
         dp[0][0] = nums[0];
         dp[0][1] = 0;
