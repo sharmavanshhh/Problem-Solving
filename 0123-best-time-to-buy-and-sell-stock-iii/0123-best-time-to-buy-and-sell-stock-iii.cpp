@@ -35,44 +35,44 @@
 //     }
 // };
 
+// class Solution {
+// public:
+//     int maxProfit(vector<int>& prices) {
+//         int n = prices.size();
+//         vector dp(n+1, vector(3, vector<int>(2, 0)));
+//         for(int idx = n-1; idx >= 0; idx--){
+//             for(int cap = 1; cap <= 2; cap++){
+//                 for(int buy = 0; buy <= 1; buy++){
+//                     if(buy){
+//                         int skip = dp[idx+1][cap][1];
+//                         int buyStock =
+//                             -prices[idx] + dp[idx+1][cap][0];
+//                         dp[idx][cap][1] = max(skip, buyStock);
+//                     }
+//                     else{
+//                         int skip = dp[idx+1][cap][0];
+//                         int sellStock =
+//                             prices[idx] + dp[idx+1][cap-1][1];
+//                         dp[idx][cap][0] = max(skip, sellStock);
+//                     }
+//                 }
+//             }
+//         }
+//         return dp[0][2][1];
+//     }
+// };
+
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-
-        int n = prices.size();
-
-        vector dp(n+1, vector(3, vector<int>(2, 0)));
-
-        for(int idx = n-1; idx >= 0; idx--){
-
-            for(int cap = 1; cap <= 2; cap++){
-
-                for(int buy = 0; buy <= 1; buy++){
-
-                    if(buy){
-
-                        int skip = dp[idx+1][cap][1];
-
-                        int buyStock =
-                            -prices[idx] + dp[idx+1][cap][0];
-
-                        dp[idx][cap][1] = max(skip, buyStock);
-                    }
-
-                    else{
-
-                        int skip = dp[idx+1][cap][0];
-
-                        int sellStock =
-                            prices[idx] + dp[idx+1][cap-1][1];
-
-                        dp[idx][cap][0] = max(skip, sellStock);
-                    }
-                }
-            }
+        int f1 = -prices[0], f2 = 0, f3 = -prices[0], f4 = 0;
+        for(int i=0;i<prices.size();i++){
+            f1 = max(f1, -prices[i]);
+            f2 = max(f2, f1 + prices[i]);
+            f3 = max(f3, f2 - prices[i]);
+            f4 = max(f4, f3 + prices[i]);
         }
-
-        return dp[0][2][1];
+        return f4;
     }
 };
 
