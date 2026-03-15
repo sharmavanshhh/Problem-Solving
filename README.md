@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0035-search-insert-position/) | Easy |
 | [0055-jump-game](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0064-minimum-path-sum/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0136-single-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0136-single-number/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0064-minimum-path-sum/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Math
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0198-house-robber](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0198-house-robber/) | Medium |
