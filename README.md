@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0029-divide-two-integers/) | Medium |
+| [0062-unique-paths](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0231-power-of-two/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0198-house-robber](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0198-house-robber/) | Medium |
@@ -235,4 +237,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1622-fancy-sequence/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
