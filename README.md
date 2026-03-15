@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1622-fancy-sequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -226,4 +227,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1622-fancy-sequence/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
