@@ -10,7 +10,7 @@ public:
 
         for(int i = m - 1; i >= 0; i--){
             for(int j = n - 1; j >= 0; j--){
-                if(i == m - 1 && j == m - 1) continue;
+                if(i == m - 1 && j == n - 1) continue;
 
                 int right = (j+1 < n) ? dp[i][j+1] : INT_MAX;
                 int down = (i+1 < m) ? dp[i+1][j] : INT_MAX;
