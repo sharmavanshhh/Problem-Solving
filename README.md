@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -143,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0645-set-mismatch/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
