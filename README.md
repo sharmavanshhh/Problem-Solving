@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0213-house-robber-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0645-set-mismatch](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0645-set-mismatch/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0338-counting-bits/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0509-fibonacci-number/) | Easy |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0278-first-bad-version/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0367-valid-perfect-square](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0367-valid-perfect-square/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
