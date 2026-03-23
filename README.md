@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
