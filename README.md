@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2401-longest-nice-subarray/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2573-find-the-string-with-lcp](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Sorting
@@ -230,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -271,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
