@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0213-house-robber-ii/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0260-single-number-iii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0645-set-mismatch/) | Easy |
 | [0740-delete-and-earn](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0740-delete-and-earn/) | Medium |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2401-longest-nice-subarray/) | Medium |
