@@ -14,7 +14,6 @@ public:
                 ans += maxFreq;
             }
         }
-
         return ans;
     }
 };
