@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0740-delete-and-earn/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
