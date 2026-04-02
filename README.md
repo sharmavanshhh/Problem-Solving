@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
