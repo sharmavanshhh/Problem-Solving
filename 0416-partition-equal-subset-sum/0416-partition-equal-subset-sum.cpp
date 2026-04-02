@@ -38,7 +38,7 @@ public:
         int sum = 0;
         for(int x : nums) sum += x;
 
-        if(sum % 2 != 0) return false;
+        if(sum & 1) return false;
 
         int target = sum / 2;
 
