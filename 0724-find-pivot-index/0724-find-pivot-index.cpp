@@ -5,7 +5,6 @@ public:
         for(int x : nums){
             sum += x;
         }
-
         int lsum = 0;
         for(int i=0; i<nums.size(); i++){
             int rsum = sum - lsum - nums[i];
