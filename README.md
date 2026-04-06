@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0322-coin-change/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0377-combination-sum-iv](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0377-combination-sum-iv/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0338-counting-bits/) | Easy |
 | [0354-russian-doll-envelopes](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0377-combination-sum-iv](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0377-combination-sum-iv/) | Medium |
@@ -358,4 +360,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
