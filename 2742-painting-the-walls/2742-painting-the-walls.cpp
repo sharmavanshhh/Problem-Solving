@@ -1,21 +1,23 @@
 class Solution {
 public:
-    int solve(int index, int walls, vector<int>& cost, vector<int>& time, vector<vector<int>>& dp){
-        if(walls <= 0) return 0;
-        if(index == cost.size()) return 1e9;
-
-        if(dp[index][walls] != -1) return dp[index][walls];
-
-        int skip = solve(index + 1, walls, cost, time, dp);
-
-        int take = cost[index] + solve(index + 1, walls - 1 - time[index], cost, time, dp);
-
-        return dp[index][walls] = min(skip, take);
-    }
-
     int paintWalls(vector<int>& cost, vector<int>& time) {
         int n = cost.size();
-        vector<vector<int>> dp(n, vector<int>(n+1, -1));
-        return solve(0, n, cost, time, dp);
+        vector<vector<int>> dp(n+1, vector<int>(n+1, 1e9));
+
+        for(int i = 0; i <= n; i++) dp[i][0] = 0;
+
+        for(int index = n - 1; index >= 0; index--){
+            for(int walls = 1; walls <= n; walls++){
+                int skip = dp[index + 1][walls];
+
+                int take = cost[index];
+                int newWalls = max(0, walls - 1 - time[index]);
+                take += dp[index + 1][newWalls];
+
+                dp[index][walls] = min(take, skip);
+            }
+        }
+
+        return dp[0][n];
     }
 };
