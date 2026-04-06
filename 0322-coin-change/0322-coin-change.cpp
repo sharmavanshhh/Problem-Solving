@@ -3,7 +3,6 @@ public:
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
         vector<vector<int>> dp(n + 1, vector<int>(amount + 1, 1e9));
-        int ans = solve(0, amount, coins, dp);
 
         for(int i = 0; i <= n; i++) dp[i][0] = 0;
 
