@@ -10,24 +10,21 @@ public:
 
         int sum = (target + total) / 2;
 
-        vector<vector<int>> dp(n, vector<int>(sum + 1, -1));
+        vector<vector<int>> dp(n+1, vector<int>(sum + 1, 0));
 
-        return solve(0, sum, nums, dp);
-    }
+        dp[0][0] = 1;
 
-    int solve(int index, int sum, vector<int>& nums, vector<vector<int>>& dp){
-        if(index == nums.size()){
-            return (sum == 0) ? 1 : 0;
+        for(int i = 1; i <= n; i++){
+            for(int j = 0; j <= sum; j++){
+                int skip = dp[i-1][j];
+                int take = 0;
+                if(nums[i-1] <= j){
+                    take = dp[i-1][j - nums[i-1]];
+                }
+                dp[i][j] = skip + take;
+            }
         }
 
-        if(dp[index][sum] != -1) return dp[index][sum];
-
-        int skip = solve(index + 1, sum, nums, dp);
-        int take = 0;
-        if(nums[index] <= sum){
-            take = solve(index + 1, sum - nums[index], nums, dp);
-        }
-
-        return dp[index][sum] = skip + take;
+        return dp[n][sum];
     }
 };
