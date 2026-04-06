@@ -2,7 +2,7 @@ class Solution {
 public:
     int combinationSum4(vector<int>& nums, int target) {
 
-        vector<int> dp(target + 1, 0);
+        vector<unsigned long long> dp(target + 1, 0);
         dp[0] = 1;
 
         for(int t = 1; t <= target; t++){
@@ -12,6 +12,7 @@ public:
                 }
             }
         }
-        return dp[target];
+
+        return (int)dp[target];
     }
 };
