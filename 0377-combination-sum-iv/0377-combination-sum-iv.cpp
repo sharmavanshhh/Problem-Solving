@@ -1,23 +1,17 @@
 class Solution {
 public:
-    int solve(int target, vector<int>& nums, vector<int>& dp){
-        if(target == 0) return 1;
-        if(target < 0) return 0;
-
-        if(dp[target] != -1) return dp[target];
-
-        int ways = 0;
-
-        for(int num : nums){
-            ways += solve(target - num, nums, dp);
-        }
-        
-        return dp[target] = ways;
-    }
-
     int combinationSum4(vector<int>& nums, int target) {
-        int n = nums.size();
-        vector<int> dp(target + 1, -1);
-        return solve(target, nums, dp);
+
+        vector<int> dp(target + 1, 0);
+        dp[0] = 1;
+
+        for(int t = 1; t <= target; t++){
+            for(int num : nums){
+                if(num <= t){
+                    dp[t] += dp[t - num];
+                }
+            }
+        }
+        return dp[target];
     }
 };
