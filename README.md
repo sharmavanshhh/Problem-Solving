@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2742-painting-the-walls](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2742-painting-the-walls/) | Hard |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2742-painting-the-walls](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2742-painting-the-walls/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Sorting
