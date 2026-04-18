@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0941-valid-mountain-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0941-valid-mountain-array/) | Easy |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0191-number-of-1-bits/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0740-delete-and-earn](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -402,4 +405,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0322-coin-change/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
