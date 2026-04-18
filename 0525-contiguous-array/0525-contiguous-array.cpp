@@ -4,20 +4,18 @@ public:
         int n = nums.size();
         unordered_map<int, int> mp;
         mp[0] = -1;
-        int count0 = 0;
-        int count1 = 0;
+        int sum = 0;
         int maxLength = 0;
         for(int i = 0; i < n; i++){
-            if(nums[i] == 0) count0++;
-            else count1++;
+            if(nums[i] == 0) sum--;
+            else sum++;
 
-            int diff = count0 - count1;
-            if(mp.count(diff)){
-                int length = i - mp[diff];
+            if(mp.count(sum)){
+                int length = i - mp[sum];
                 maxLength = max(length, maxLength);
             }
             else{
-                mp[diff] = i;
+                mp[sum] = i;
             }
         }
         return maxLength;
