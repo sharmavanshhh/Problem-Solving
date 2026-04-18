@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1092-shortest-common-supersequence/) | Hard |
