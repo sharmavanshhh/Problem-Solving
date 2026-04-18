@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1622-fancy-sequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1622-fancy-sequence/) | Hard |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Bit Manipulation
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
