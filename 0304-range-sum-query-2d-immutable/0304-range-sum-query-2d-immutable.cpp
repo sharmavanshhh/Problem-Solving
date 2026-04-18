@@ -1,30 +1,31 @@
 class NumMatrix {
 public:
-    vector<vector<int>> prefix;
+    vector<vector<int>> P;
 
     NumMatrix(vector<vector<int>>& matrix) {
-
         int m = matrix.size();
         int n = matrix[0].size();
 
-        prefix = vector<vector<int>>(m+1, vector<int>(n+1, 0));
+        P = vector<vector<int>>(m, vector<int>(n, 0));
 
-        for(int i = 1; i <= m; i++){
-            for(int j = 1; j <= n; j++){
-                prefix[i][j] =
-                    matrix[i-1][j-1]
-                    + prefix[i-1][j]
-                    + prefix[i][j-1]
-                    - prefix[i-1][j-1];
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                P[i][j] = matrix[i][j];
+
+                if(i > 0) P[i][j] += P[i-1][j];
+                if(j > 0) P[i][j] += P[i][j-1];
+                if(i > 0 && j > 0) P[i][j] -= P[i-1][j-1];
             }
         }
     }
 
     int sumRegion(int r1, int c1, int r2, int c2) {
+        int sum = P[r2][c2];
 
-        return prefix[r2+1][c2+1]
-             - prefix[r1][c2+1]
-             - prefix[r2+1][c1]
-             + prefix[r1][c1];
+        if(r1 > 0) sum -= P[r1-1][c2];
+        if(c1 > 0) sum -= P[r2][c1-1];
+        if(r1 > 0 && c1 > 0) sum += P[r1-1][c1-1];
+
+        return sum;
     }
 };
