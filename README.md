@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0377-combination-sum-iv/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0494-target-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0268-missing-number/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -413,4 +416,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
