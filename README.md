@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0064-minimum-path-sum/) | Medium |
@@ -160,11 +161,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0191-number-of-1-bits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0063-unique-paths-ii/) | Medium |
