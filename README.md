@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0044-wildcard-matching/) | Hard |
 | [0231-power-of-two](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0342-power-of-four/) | Easy |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0055-jump-game/) | Medium |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0044-wildcard-matching/) | Hard |
 | [0091-decode-ways](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0091-decode-ways/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0516-longest-palindromic-subsequence/) | Medium |
