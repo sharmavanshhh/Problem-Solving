@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0091-decode-ways/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0174-dungeon-game](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0198-house-robber/) | Medium |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0091-decode-ways](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0091-decode-ways/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0647-palindromic-substrings/) | Medium |
