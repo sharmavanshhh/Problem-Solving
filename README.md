@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0486-predict-the-winner](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0486-predict-the-winner](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0044-wildcard-matching/) | Hard |
 | [0231-power-of-two](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0342-power-of-four/) | Easy |
+| [0486-predict-the-winner](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Divide and Conquer
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0377-combination-sum-iv/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0486-predict-the-winner](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -436,4 +440,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
