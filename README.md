@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0091-decode-ways/) | Medium |
+| [0115-distinct-subsequences](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0115-distinct-subsequences/) | Hard |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0174-dungeon-game](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0198-house-robber/) | Medium |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0091-decode-ways/) | Medium |
+| [0115-distinct-subsequences](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0115-distinct-subsequences/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0647-palindromic-substrings/) | Medium |
