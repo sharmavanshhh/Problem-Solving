@@ -2,7 +2,8 @@ class Solution {
 public:
     int numDistinct(string s, string t) { 
         int m = s.size(), n = t.size();
-        vector<vector<int>> dp(m+1, vector<int>(n+1, 0));
+
+        vector<vector<unsigned long long>> dp(m+1, vector<unsigned long long>(n+1, 0));
         
         for(int i = 0; i <= m; i++){
             dp[i][n] = 1;
@@ -19,6 +20,6 @@ public:
             }
         }
 
-        return dp[0][0];
+        return (int)dp[0][0];
     }
 };
