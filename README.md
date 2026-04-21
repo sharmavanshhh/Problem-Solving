@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0941-valid-mountain-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0941-valid-mountain-array/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1143-longest-common-subsequence/) | Medium |
