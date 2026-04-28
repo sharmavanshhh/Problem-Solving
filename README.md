@@ -428,10 +428,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sharmavanshhh/Problem-Solving/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Depth-First Search
@@ -496,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Tree
@@ -513,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0993-cousins-in-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
