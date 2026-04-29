@@ -6,27 +6,21 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
-    void solve(TreeNode* node, int target, int currSum, bool& ans){
-        if(!node) return;
+    bool hasPathSum(TreeNode* root, int targetSum) {
+        if (!root)
+            return false;
 
-        if(!node->left && !node->right){
-            if(currSum + node->val == target){
-                ans = true;
-                return;
-            }
+        if (!root->left && !root->right) {
+            return targetSum == root->val;
         }
 
-        solve(node->left, target, currSum + node->val, ans);
-        solve(node->right, target, currSum + node->val, ans);
-    }
-    bool hasPathSum(TreeNode* root, int targetSum) {
-        bool ans = false;
-        solve(root, targetSum, 0, ans);
-        return ans;
+        return hasPathSum(root->left, targetSum - root->val) ||
+               hasPathSum(root->right, targetSum - root->val);
     }
 };
