@@ -11,24 +11,24 @@
  */
 class Solution {
 public:
-    void traverse(TreeNode* root, vector<int>& arr){
-        if(!root){
+    void getLeaves(TreeNode* root, vector<int>& leaves) {
+        // write code here
+        if(!root) return;
+        
+        if(!root->left && !root->right){
+            leaves.push_back(root->val);
             return;
         }
-        if(root->left == nullptr && root->right == nullptr){
-            arr.push_back(root->val);
-        }
-        traverse(root->left, arr);
-        traverse(root->right, arr);
+        
+        getLeaves(root->left, leaves);
+        getLeaves(root->right, leaves);
     }
-
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        vector<int> leaves1;
-        vector<int> leaves2;
+        vector<int> l1, l2;
 
-        traverse(root1, leaves1);
-        traverse(root2, leaves2);
+        getLeaves(root1, l1);
+        getLeaves(root2, l2);
 
-        return leaves1 == leaves2;
+        return l1 == l2;
     }
 };
