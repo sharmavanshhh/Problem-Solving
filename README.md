@@ -446,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0322-coin-change/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -519,5 +522,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0993-cousins-in-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
