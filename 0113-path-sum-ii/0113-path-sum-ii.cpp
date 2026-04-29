@@ -6,32 +6,30 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    void backtracking(TreeNode* root, vector<vector<int>>& res,
-                      vector<int>& temp, int target, int sum) {
-        if (!root) {
-            return;
+    void solve(TreeNode* node, vector<vector<int>>& result, vector<int>& paths, int targetSum){
+        if(!node) return;
+
+        paths.push_back(node->val);
+
+        if(!node->left && !node->right && targetSum == node->val) {
+            result.push_back(paths);
         }
-        temp.push_back(root->val);
-        sum += root->val;
-        if (!root->left && !root->right && sum == target) {
-            res.push_back(temp);
-        } else {
-            backtracking(root->left, res, temp, target, sum);
-            backtracking(root->right, res, temp, target, sum);
-        }
-        temp.pop_back();
+
+        solve(node->left, result, paths, targetSum - node->val);
+        solve(node->right, result, paths, targetSum - node->val);
+
+        paths.pop_back();
     }
 
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
-        vector<vector<int>> res;
-        vector<int> temp;
-        backtracking(root, res, temp, targetSum, 0);
-        return res;
+        vector<vector<int>> result;
+        vector<int> paths;
+        solve(root, result, paths, targetSum);
+        return result;
     }
 };
