@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0115-distinct-subsequences/) | Hard |
+| [0257-binary-tree-paths](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0257-binary-tree-paths/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0647-palindromic-substrings/) | Medium |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -500,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -519,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
