@@ -11,21 +11,17 @@
  */
 class Solution {
 public:
-    void backtracking(TreeNode* root, int& ans, int curr){
-        if(!root){
-            return;
-        }
-        curr = curr*10 + root->val;
-        if(!root->left && !root->right){
-            ans += curr;
-            return;
-        }
-        backtracking(root->left, ans, curr);
-        backtracking(root->right, ans, curr);
+    int solve(TreeNode* node, int curr){
+        if(!node) return 0;
+
+        curr = curr * 10 + node->val;
+
+        if(!node->left && !node->right) return curr;
+
+        return solve(node->left, curr) + solve(node->right, curr);
     }
+
     int sumNumbers(TreeNode* root) {
-        int ans = 0;
-        backtracking(root, ans, 0);
-        return ans;
+        return solve(root, 0);
     }
 };
