@@ -445,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0112-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0322-coin-change/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -500,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0226-invert-binary-tree/) | Easy |
@@ -519,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0222-count-complete-tree-nodes/) | Easy |
