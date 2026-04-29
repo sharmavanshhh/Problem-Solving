@@ -372,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0113-path-sum-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -484,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0226-invert-binary-tree/) | Easy |
@@ -523,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0222-count-complete-tree-nodes/) | Easy |
