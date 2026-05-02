@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0605-can-place-flowers](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0605-can-place-flowers/) | Easy |
 | [0645-set-mismatch](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0645-set-mismatch/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0704-binary-search/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0605-can-place-flowers](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0605-can-place-flowers/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/sharmavanshhh/Problem-Solving/tree/main/2573-find-the-string-with-lcp/) | Hard |
