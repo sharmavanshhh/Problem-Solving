@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0605-can-place-flowers/) | Easy |
 | [0645-set-mismatch](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0645-set-mismatch/) | Easy |
+| [0661-image-smoother](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0661-image-smoother/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0704-binary-search/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0064-minimum-path-sum/) | Medium |
 | [0174-dungeon-game](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0174-dungeon-game/) | Hard |
 | [0304-range-sum-query-2d-immutable](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0661-image-smoother](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0661-image-smoother/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/sharmavanshhh/Problem-Solving/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sharmavanshhh/Problem-Solving/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
